@@ -57,3 +57,6 @@ console.log("--- EXERCÍCIO 05: FILMES ---");
 for (let filme of filmes) {
   console.log(`Nome: ${filme[0]} | Ano: ${filme[1]} | Gênero: ${filme[2]}`);
 }
+
+//concat nao cria, mas adiciona uma nova array com os 
+//elementos concatados
